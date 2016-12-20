@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
 
 })
 export class NavbarComponent {
-    branding = "My NG2 Website";
+    branding = "My Angular 2 Website";
 }
